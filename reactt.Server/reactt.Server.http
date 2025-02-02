@@ -1,0 +1,6 @@
+@reactt.Server_HostAddress = http://localhost:5180
+
+GET {{reactt.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
